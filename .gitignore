@@ -1,0 +1,6 @@
+downloader/
+.idea/
+.DS_Store
+var/
+media/
+
